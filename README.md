@@ -1,4 +1,4 @@
-# Sales Data Analytics Project
+# Sales Data Science Project
 
 This repository contains a sales analytics notebook and dataset for performing exploratory data analysis (EDA), data cleaning, visualization, and a simple predictive model.
 
